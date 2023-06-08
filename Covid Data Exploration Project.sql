@@ -16,7 +16,7 @@ from PortfolioProject..CovidDeaths
 where continent is not null
 order by 1,2
 
-
+//this line was added by me Ajaykumar
 --Looking at Total Cases v/s Total Deaths
 --Shows likelihood of Dying if you contracted Covid in your Country
 
